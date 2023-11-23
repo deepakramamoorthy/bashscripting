@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir newdirectory
+cd newdirectory
+touch newfile.txt
+echo "Hello Deepak" > newfile.txt
+cat newfile.txt
+
